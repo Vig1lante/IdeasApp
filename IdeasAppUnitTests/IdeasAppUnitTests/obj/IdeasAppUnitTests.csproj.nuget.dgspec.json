@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PCx\\Desktop\\IdeasApp\\IdeasAppUnitTests\\IdeasAppUnitTests\\IdeasAppUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PCx\\Desktop\\IdeasApp\\IdeasAppUnitTests\\IdeasAppUnitTests\\IdeasAppUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PCx\\Desktop\\IdeasApp\\IdeasAppUnitTests\\IdeasAppUnitTests\\IdeasAppUnitTests.csproj",
+        "projectName": "IdeasAppUnitTests",
+        "projectPath": "C:\\Users\\PCx\\Desktop\\IdeasApp\\IdeasAppUnitTests\\IdeasAppUnitTests\\IdeasAppUnitTests.csproj",
+        "packagesPath": "C:\\Users\\PCx\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PCx\\Desktop\\IdeasApp\\IdeasAppUnitTests\\IdeasAppUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PCx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {
+              "C:\\Users\\PCx\\Desktop\\IdeasApp\\IdeasApp\\IdeasApp\\IdeasApp.csproj": {
+                "projectPath": "C:\\Users\\PCx\\Desktop\\IdeasApp\\IdeasApp\\IdeasApp\\IdeasApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PCx\\Desktop\\IdeasApp\\IdeasApp\\IdeasApp\\IdeasApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PCx\\Desktop\\IdeasApp\\IdeasApp\\IdeasApp\\IdeasApp.csproj",
+        "projectName": "IdeasApp",
+        "projectPath": "C:\\Users\\PCx\\Desktop\\IdeasApp\\IdeasApp\\IdeasApp\\IdeasApp.csproj"
+      },
+      "frameworks": {
+        "net46": {}
+      }
+    }
+  }
+}
